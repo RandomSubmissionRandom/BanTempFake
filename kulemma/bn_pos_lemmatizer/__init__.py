@@ -1,0 +1,1 @@
+from kulemma.bn_pos_lemmatizer.lemmatizer import PosLemmatizer
